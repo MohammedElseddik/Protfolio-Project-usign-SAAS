@@ -1,0 +1,22 @@
+{
+  "name": "protfolio-project-usign-saas",
+  "version": "1.0.0",
+  "description": "Portfolio website  project ",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammedElseddik/Protfolio-Project-usign-SAAS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammedElseddik/Protfolio-Project-usign-SAAS/issues"
+  },
+  "homepage": "https://github.com/MohammedElseddik/Protfolio-Project-usign-SAAS#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
